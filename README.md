@@ -1,4 +1,7 @@
-# app_news
+# News App
+
+![News app](https://user-images.githubusercontent.com/43406126/158703310-a54a02b0-bee5-4f91-b3e2-163f131eb648.gif)
+
 
 A new Flutter project.
 
